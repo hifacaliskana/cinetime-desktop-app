@@ -7,5 +7,3 @@
 # rebase op
 
 # stash op
-
-# stage op
