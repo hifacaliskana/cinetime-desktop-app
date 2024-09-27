@@ -5,3 +5,7 @@
 # there is after login page in here
 
 # rebase op
+
+# stash op
+
+# stage op
