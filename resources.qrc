@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Assets/Icons/copyright.png</file>
+    <file>Assets/Images/cinema_wallpaper_2.jpg</file>
+    <file>Assets/Images/cinema-wallpaper.jpg</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>Assets/Icons/35pxSuccess.png</file>
+    <file>Assets/Icons/60pxSuccess.png</file>
+    <file>Assets/Icons/add.png</file>
+    <file>Assets/Icons/cil-x.png</file>
+    <file>Assets/Icons/cil-x-circle.png</file>
+    <file>Assets/Icons/cross.png</file>
+    <file>Assets/Icons/icon_minimize.png</file>
+    <file>Assets/Icons/maximize.png</file>
+    <file>Assets/Icons/minus.png</file>
+    <file>Assets/Icons/cross.png</file>
+    <file>Assets/Icons/maximize.png</file>
+    <file>Assets/Icons/minus.png</file>
+  </qresource>
+</RCC>
